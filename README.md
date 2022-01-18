@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucleads
 - 👀 I’m interested in everything related to backend Web Applications.
-- 🌱 I’m currently learning NodeJS and Spring Security.
+- 🌱 I’m currently learning microservices development with PHP and Spring Security.
 - 💞️ I’m looking to collaborate on any interesting open source project
 - 📫 How to reach me - lucasd_99@hotmail.com
 
